@@ -53,6 +53,7 @@
 /* END HEADER */
 
 /* MAIN CONTENT */
+
 #main-content h2 {
     margin: 40px;
 }
@@ -60,6 +61,7 @@
 .row div {
     background-color: #999999;
     width: 100%;
+    margin-bottom: 40px;
 }
 .row h3 {
     text-align: center;
